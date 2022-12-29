@@ -107,7 +107,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>tesla</finalName>
+		<finalName>Amazon-app</finalName>
 		
 		<plugins>
 			<plugin>
